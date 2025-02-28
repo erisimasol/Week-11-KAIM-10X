@@ -59,8 +59,7 @@ print(historical_data.info())
 print(historical_data.isnull().sum())
 ```
 
-## Conclusion
-This notebook serves as a foundational analysis tool for understanding Tesla's stock performance over a decade. Further analysis can be conducted using machine learning models and advanced visualization techniques.
+
 
 ## Usage
 To run this notebook:
